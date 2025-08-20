@@ -34,7 +34,7 @@ first create the database alumni and then use the database.sql file
 <p>2. create the database</p>
 3. In web.config file add the connection string
 
-```xml
+```web.config
 <connectionStrings>
     <add name="constr" 
          connectionString="add connection string" 
@@ -42,8 +42,45 @@ first create the database alumni and then use the database.sql file
 </connectionStrings>
 ```
 in place of add connection string add your connection string 
-
 <p>4. in email.aspx.cs file add your email id and app password(16 digit string password provided by google)</p><br>
+```email.aspx.cs
+
+                try
+                {
+                    MailMessage mail = new MailMessage();
+                    mail.From = new MailAddress("Enter_your_gmail_id");
+                    mail.To.Add(toEmail);
+                    mail.Subject = subject;
+                    mail.Body = body;
+
+                    SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587);
+                    smtp.Credentials = new NetworkCredential("Enter_your_gmail_id", "Enter_app_password");
+                    smtp.EnableSsl = true;
+
+                    smtp.Send(mail);```
+                    
 <p>5. use the same email id and app password in RegisterEvent.aspx.cs file </p>
-<p>Login to razorpay and generate the key and use that key in RegisterEvent.aspx file  </p>
+```RegisterEvent.aspx.cs
+
+            mail.From = new MailAddress("enter_your_gmail_is"); // Your sender email
+            mail.To.Add(studentEmail);
+            mail.Subject = "Event Registration Successful!";
+            mail.Body = $"Dear {studentName},\n\n" +
+                        $"Thank you for registering for the event: {eventTitle}.\n\n" +
+                        $" Payment ID: {paymentId}\n" +
+                        $" Amount Paid: ₹{amount}\n" +
+                        $" Payment Time: {DateTime.Now.ToString("f")}\n\n" +
+                        $"We look forward to seeing you at the event!\n\n" +
+                        $"Best regards,\nAlumni Event Team";
+
+            SmtpClient smtp = new SmtpClient("smtp.gmail.com", 587);
+            smtp.Credentials = new NetworkCredential("enter_your_gmail_is", "enter_app_password"); // use App Password
+            smtp.EnableSsl = true;```
+
+<p>6. Login to razorpay and generate the key and use that key in RegisterEvent.aspx file  </p>
+
+```RegisterEvent.aspx
+ var options = {
+            "key": "Enter_your_key",// Replace with your Razorpay key <asp:Label ID="lblStudentName" runat="server"></asp:Label><br />
+            ```
 
