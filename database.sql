@@ -1,4 +1,4 @@
-USE [alumni1]
+USE [alumni]
 GO
 /****** Object:  Table [dbo].[AlumniUsers]    Script Date: 20-08-2025 18:46:18 ******/
 SET ANSI_NULLS ON
