@@ -79,8 +79,13 @@ in place of add connection string add your connection string
 
 <p>6. Login to razorpay and generate the key and use that key in RegisterEvent.aspx file  </p>
 
-```RegisterEvent.aspx
+```
  var options = {
             "key": "Enter_your_key",// Replace with your Razorpay key <asp:Label ID="lblStudentName" runat="server"></asp:Label><br />
-            ```
+            "amount": 50000,
+            "currency": "INR",
+            "name": "Alumni Event",
+            "description": "Event Registration Fee",```
+```
 
+<p>7. after all changes you can run the project</p>
