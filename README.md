@@ -32,12 +32,18 @@ first create the database alumni and then use the database.sql file
 <h2>Steps to run the project</h2>
 <p>1. Download the source code </p>
 <p>2. create the database</p>
-<p>3. In web.config file add the connection string in<br> 
+3. In web.config file add the connection string
 
-</p>
+```xml
+<connectionStrings>
+    <add name="constr" 
+         connectionString="add connection string" 
+         providerName="System.Data.SqlClient" />
+</connectionStrings>
+```
+in place of add connection string add your connection string 
 
+<p>4. in email.aspx.cs file add your email id and app password(16 digit string password provided by google)</p><br>
+<p>5. use the same email id and app password in RegisterEvent.aspx.cs file </p>
+<p>Login to razorpay and generate the key and use that key in RegisterEvent.aspx file  </p>
 
-
-
-
-  
