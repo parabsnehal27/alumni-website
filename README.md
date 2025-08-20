@@ -24,8 +24,17 @@
 
 <h2>Procedure to execute the web application</h2>
 Install visual studio 2022 and SQL server management studio.<br>
-download the source code <br>
 Extract source code in visual studio<br>
+
+for database use the database.sql file <br>
+first create the database alumni and then use the database.sql file 
+
+<h2>Steps to run the project</h2>
+<p>1. Download the source code </p>
+<p>2. create the database</p>
+<p>3. In web.config file add the connection string in<br> 
+
+</p>
 
 
 
