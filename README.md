@@ -60,7 +60,7 @@ in place of add connection string add your connection string
                     smtp.Send(mail);```
                     
 <p>5. use the same email id and app password in RegisterEvent.aspx.cs file </p>
-```RegisterEvent.aspx.cs
+RegisterEvent.aspx.cs
 
             mail.From = new MailAddress("enter_your_gmail_is"); // Your sender email
             mail.To.Add(studentEmail);
@@ -85,7 +85,7 @@ in place of add connection string add your connection string
             "amount": 50000,
             "currency": "INR",
             "name": "Alumni Event",
-            "description": "Event Registration Fee",```
+            "description": "Event Registration Fee",
 ```
 
 <p>7. after all changes you can run the project</p>
