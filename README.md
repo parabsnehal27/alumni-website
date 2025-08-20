@@ -22,6 +22,13 @@
   
 </p>
 
+<h2>Procedure to execute the web application</h2>
+Install visual studio 2022 and SQL server management studio.<br>
+download the source code <br>
+Extract source code in visual studio<br>
 
-  
+
+
+
+
   
