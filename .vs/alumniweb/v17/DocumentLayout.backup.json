@@ -1,0 +1,262 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\awp\\alumniweb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|c:\\awp\\alumniweb\\thankyou.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|solutionrelative:thankyou.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|c:\\awp\\alumniweb\\registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|solutionrelative:registration.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|c:\\awp\\alumniweb\\registerevent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|solutionrelative:registerevent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|c:\\awp\\alumniweb\\payment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|solutionrelative:payment.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|c:\\awp\\alumniweb\\members.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|solutionrelative:members.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|c:\\awp\\alumniweb\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|solutionrelative:login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|c:\\awp\\alumniweb\\home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|solutionrelative:home.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|c:\\awp\\alumniweb\\event.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|solutionrelative:event.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|c:\\awp\\alumniweb\\email.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|solutionrelative:email.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|c:\\awp\\alumniweb\\cs.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|solutionrelative:cs.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|c:\\awp\\alumniweb\\contactus.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|solutionrelative:contactus.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|c:\\awp\\alumniweb\\allevents.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|solutionrelative:allevents.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|c:\\awp\\alumniweb\\admin_panel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|solutionrelative:admin_panel.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|c:\\awp\\alumniweb\\addevent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60169462-C400-442C-8BFB-B727D813454D}|alumniweb.csproj|solutionrelative:addevent.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ThankYou.aspx.cs",
+              "DocumentMoniker": "C:\\awp\\alumniweb\\ThankYou.aspx.cs",
+              "RelativeDocumentMoniker": "ThankYou.aspx.cs",
+              "ToolTip": "C:\\awp\\alumniweb\\ThankYou.aspx.cs",
+              "RelativeToolTip": "ThankYou.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:37:45.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "registration.aspx.cs",
+              "DocumentMoniker": "C:\\awp\\alumniweb\\registration.aspx.cs",
+              "RelativeDocumentMoniker": "registration.aspx.cs",
+              "ToolTip": "C:\\awp\\alumniweb\\registration.aspx.cs",
+              "RelativeToolTip": "registration.aspx.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABgAAAB/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:36:56.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegisterEvent.aspx.cs",
+              "DocumentMoniker": "C:\\awp\\alumniweb\\RegisterEvent.aspx.cs",
+              "RelativeDocumentMoniker": "RegisterEvent.aspx.cs",
+              "ToolTip": "C:\\awp\\alumniweb\\RegisterEvent.aspx.cs",
+              "RelativeToolTip": "RegisterEvent.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:36:45.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "payment.aspx.cs",
+              "DocumentMoniker": "C:\\awp\\alumniweb\\payment.aspx.cs",
+              "RelativeDocumentMoniker": "payment.aspx.cs",
+              "ToolTip": "C:\\awp\\alumniweb\\payment.aspx.cs",
+              "RelativeToolTip": "payment.aspx.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:36:41.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "members.aspx.cs",
+              "DocumentMoniker": "C:\\awp\\alumniweb\\members.aspx.cs",
+              "RelativeDocumentMoniker": "members.aspx.cs",
+              "ToolTip": "C:\\awp\\alumniweb\\members.aspx.cs",
+              "RelativeToolTip": "members.aspx.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBkAAAB7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:36:04.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login.aspx.cs",
+              "DocumentMoniker": "C:\\awp\\alumniweb\\login.aspx.cs",
+              "RelativeDocumentMoniker": "login.aspx.cs",
+              "ToolTip": "C:\\awp\\alumniweb\\login.aspx.cs",
+              "RelativeToolTip": "login.aspx.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwB8AAAB+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:33:47.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "home.aspx.cs",
+              "DocumentMoniker": "C:\\awp\\alumniweb\\home.aspx.cs",
+              "RelativeDocumentMoniker": "home.aspx.cs",
+              "ToolTip": "C:\\awp\\alumniweb\\home.aspx.cs",
+              "RelativeToolTip": "home.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:33:33.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "contactus.aspx.cs",
+              "DocumentMoniker": "C:\\awp\\alumniweb\\contactus.aspx.cs",
+              "RelativeDocumentMoniker": "contactus.aspx.cs",
+              "ToolTip": "C:\\awp\\alumniweb\\contactus.aspx.cs",
+              "RelativeToolTip": "contactus.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBsAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:32:04.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cs.aspx.cs",
+              "DocumentMoniker": "C:\\awp\\alumniweb\\cs.aspx.cs",
+              "RelativeDocumentMoniker": "cs.aspx.cs",
+              "ToolTip": "C:\\awp\\alumniweb\\cs.aspx.cs",
+              "RelativeToolTip": "cs.aspx.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:18:15.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "email.aspx.cs",
+              "DocumentMoniker": "C:\\awp\\alumniweb\\email.aspx.cs",
+              "RelativeDocumentMoniker": "email.aspx.cs",
+              "ToolTip": "C:\\awp\\alumniweb\\email.aspx.cs",
+              "RelativeToolTip": "email.aspx.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:18:05.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "event.aspx.cs",
+              "DocumentMoniker": "C:\\awp\\alumniweb\\event.aspx.cs",
+              "RelativeDocumentMoniker": "event.aspx.cs",
+              "ToolTip": "C:\\awp\\alumniweb\\event.aspx.cs",
+              "RelativeToolTip": "event.aspx.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBcAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:17:56.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AllEvents.aspx.cs",
+              "DocumentMoniker": "C:\\awp\\alumniweb\\AllEvents.aspx.cs",
+              "RelativeDocumentMoniker": "AllEvents.aspx.cs",
+              "ToolTip": "C:\\awp\\alumniweb\\AllEvents.aspx.cs",
+              "RelativeToolTip": "AllEvents.aspx.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAuwA0AAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:13:07.149Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AddEvent.aspx.cs",
+              "DocumentMoniker": "C:\\awp\\alumniweb\\AddEvent.aspx.cs",
+              "RelativeDocumentMoniker": "AddEvent.aspx.cs",
+              "ToolTip": "C:\\awp\\alumniweb\\AddEvent.aspx.cs",
+              "RelativeToolTip": "AddEvent.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:07:00.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "admin_panel.aspx.cs",
+              "DocumentMoniker": "C:\\awp\\alumniweb\\admin_panel.aspx.cs",
+              "RelativeDocumentMoniker": "admin_panel.aspx.cs",
+              "ToolTip": "C:\\awp\\alumniweb\\admin_panel.aspx.cs",
+              "RelativeToolTip": "admin_panel.aspx.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAiwCIAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-20T08:10:27.936Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
